@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Edit 
+      <code>
+        src/App.js
+      </code>
+       and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+  </header>
+</div>
+`;
+
+exports[`renders a snapshot 2`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "18rem",
+        }
+      }
+    >
+      <img
+        className="card-img-top"
+        src="https://lh3.googleusercontent.com/Fok9nSHA4oI-XqcgvUB0ejUWsgDWkjKYqgGTyyiT9jVoWFVjs9nWX9wA7Z9y7kTS_UclFwAi81pk6SZ9ypBZ2eFDlIyfQZA_uqspmw=w1400-k"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Mason Matthews
+        </div>
+        <p
+          className="card-text"
+          style={
+            Object {
+              "color": "black",
+            }
+          }
+        >
+          This is some Text About Me.
+        </p>
+        <a
+          className="btn btn-primary"
+          disabled={false}
+          href="https://github.com/Mason-Matthews"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          Go somewhere
+        </a>
+      </div>
+    </div>
+  </header>
+</div>
+`;
